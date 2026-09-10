@@ -44,6 +44,14 @@ The dataset contains job-posting information such as:
 
 The original dataset is not included in this repository.
 
+### Dataset Source
+
+The dataset used in this project is the **Real / Fake Job Posting Prediction** dataset from Kaggle, based on the Employment Scam Aegean Dataset (EMSCAD).
+
+**Dataset:** https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+
+The dataset contains 17,880 job postings with 18 attributes, including 17,014 legitimate and 866 fraudulent postings.
+
 ## Data Cleaning & Feature Engineering
 
 The shared preprocessing pipeline includes:
